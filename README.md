@@ -38,4 +38,6 @@ Sample data structure:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/amazon-data-engineering.git
+   git clone https://github.com/Jerin2004/Amazon-Data-Engineering-Project-PySpark
+
+   
